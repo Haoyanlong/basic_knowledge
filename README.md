@@ -1,1 +1,1 @@
-#### The project gather basic knowledge about machine learning and dee learning, contains math, coding.
+#### The project gather basic knowledge about machine learning and deep learning, contains math, coding(Python, Cplusplus).
